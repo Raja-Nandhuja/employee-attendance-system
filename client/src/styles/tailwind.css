@@ -1,0 +1,19 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+/* Global animated background */
+body {
+  background: radial-gradient(circle at center, #1a0033, #0d001a, #000000);
+  overflow-x: hidden;
+}
+
+@keyframes dropdown {
+  0% { opacity: 0; transform: translateY(-6px) scale(0.98); }
+  100% { opacity: 1; transform: translateY(0) scale(1); }
+}
+
+.animate-dropdown {
+  animation: dropdown 0.15s ease-out;
+}
