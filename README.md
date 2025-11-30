@@ -1,6 +1,15 @@
 # 🌟 Employee Attendance System | MERN Full-Stack Project 
 by RAJA NANDHUJA S,SNS College of Technology-(6382456454)
 
+Manager dash board
+mail:suminan@gmail.com
+password:123 
+
+Employee Dashboard
+mail:kumar@gmail.com
+password:123 
+
+
 Hey there! 👋  
 This is my **Employee Attendance System**, a full-stack MERN application I built to solve real-world problems related to workplace attendance tracking.  
 
